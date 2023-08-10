@@ -1,0 +1,35 @@
+li { display: grid; }
+
+span {
+    padding: 5px;
+}
+
+@media screen and (max-width: 700px) {
+    ul {
+        position: relative;
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-right: 12px
+    }
+}
+
+@media screen and (min-width: 700px) {
+    ul {
+        position: relative;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 12px;
+        margin-right: 12px
+    }
+}
+.item {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 1px solid lightgray;
+}
+
+.contentRight {
+    text-align: right;
+    margin: 0 0 0 1px;
+}
+

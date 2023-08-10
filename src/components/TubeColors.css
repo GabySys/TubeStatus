@@ -1,0 +1,56 @@
+.piccadilly {
+    background-color: #0019A8;
+    color: white
+}
+
+.bakerloo {
+    background-color: #B26313;
+    color: #fff
+}
+
+.central {
+    background-color: #DC241F;
+    color: white
+}
+
+.circle {
+    background-color: #FFD329;
+    color: #0019A8
+}
+
+.district {
+    background-color: #007D32;
+    color: white
+}
+
+.hammersmith,
+.hammersmith-city,
+.hammersmithandcity {
+    background-color: #F4A9BE;
+    color: #0019A8
+}
+
+.jubilee {
+    background-color: #A1A5A7;
+    color: white
+}
+
+.metropolitan {
+    background-color: #9B0058;
+    color: white
+}
+
+.northern {
+    background-color: #000;
+    color: #fff
+}
+
+.victoria {
+    background: #0098D8;
+    color: white
+}
+
+.waterloo-city {
+    background: #93CEBA;
+    color: #0019A8
+}
